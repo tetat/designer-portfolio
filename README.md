@@ -13,5 +13,5 @@ git clone https://github.com/tetat/designer-portfolio.git
 Switch to the repository folder:
 
 ```bash
-cd my-portfolio
+cd designer-portfolio
 ```
